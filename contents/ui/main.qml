@@ -22,7 +22,7 @@ Item {
 
     // update the view
     function showInfo(temperature) {
-        log.text = temperature + "°C"
+        log.text = temperature + " °C"
     }
 
     function request() {
